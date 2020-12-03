@@ -10,7 +10,7 @@ _Strikethrough will be added for completed projects_
 
   ~~Expanding Cards~~
 
-  ~~Progress Steps~
+  ~~Progress Steps~~
 
   Rotating Navigation Animation
 
