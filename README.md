@@ -1,10 +1,10 @@
-#50 Projects In 50 Days
+# 50 Projects In 50 Days
 
-###Brad Traversy & Florin Pop's HTML, CSS, & Javascript Udemy Course
+### Brad Traversy & Florin Pop's HTML, CSS, & Javascript Udemy Course
 
 I am challenging myself to complete these 50 projects over the next 50 days AND upload them to a github repo.
 
-######Projects Below
+###### Projects Below
 
 _Strikethrough will be added for completed projects_
 
