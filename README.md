@@ -8,102 +8,102 @@ I am challenging myself to complete these 50 projects over the next 50 days AND 
 
 _Strikethrough will be added for completed projects_
 
-  ~~Expanding Cards~~
+~~Expanding Cards~~
 
-  ~~Progress Steps~~
+~~Progress Steps~~
 
-  Rotating Navigation Animation
+~~Rotating Navigation Animation~~
 
-  Hidden Search Widget
+Hidden Search Widget
 
-  Blurry Loading
+Blurry Loading
 
-  Scroll Animation
+Scroll Animation
 
-  Split Landing Page
+Split Landing Page
 
-  Form Wave
+Form Wave
 
-  Sound Board
+Sound Board
 
-  Dad Jokes
+Dad Jokes
 
-  Event Keycodes
+Event Keycodes
 
-  Faq Collapse
+Faq Collapse
 
-  Random Choice Picker
+Random Choice Picker
 
-  Animated Navigation
+Animated Navigation
 
-  Incrementing Counter
+Incrementing Counter
 
-  Drink Water
+Drink Water
 
-  Movie App
+Movie App
 
-  Background Slider
+Background Slider
 
-  Theme Clock
+Theme Clock
 
-  Button Ripple Effect
+Button Ripple Effect
 
-  Drag N Drop
+Drag N Drop
 
-  Drawing App
+Drawing App
 
-  Kinetic Loader
+Kinetic Loader
 
-  Content Placeholder
+Content Placeholder
 
-  Sticky Navbar
+Sticky Navbar
 
-  Double Vertical Slider
+Double Vertical Slider
 
-  Toast Notification
+Toast Notification
 
-  Github Profiles
-  
-  Double Click Heart
-  
-  Auto Text Effect
+Github Profiles
 
-  Password Generator
+Double Click Heart
 
-  Good Cheap Fast
+Auto Text Effect
 
-  Notes App
+Password Generator
 
-  Animated Countdown
+Good Cheap Fast
 
-  Image Carousel
+Notes App
 
-  Hoverboard
+Animated Countdown
 
-  Pokedex
+Image Carousel
 
-  Mobile Tab Navigation
+Hoverboard
 
-  Password Strength Background
+Pokedex
 
-  3d Background Boxes
+Mobile Tab Navigation
 
-  Verify Account UI
+Password Strength Background
 
-  Live User Filter
+3d Background Boxes
 
-  Feedback UI Design
+Verify Account UI
 
-  Custom Range Slider
+Live User Filter
 
-  Netflix Mobile Navigation
+Feedback UI Design
 
-  Quiz App
+Custom Range Slider
 
-  Testimonial Box Switcher
+Netflix Mobile Navigation
 
-  Random Image Feed
+Quiz App
 
-  Todo List
+Testimonial Box Switcher
 
-  Insect Catch Game
+Random Image Feed
+
+Todo List
+
+Insect Catch Game
