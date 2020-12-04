@@ -8,11 +8,11 @@ I am challenging myself to complete these 50 projects over the next 50 days AND 
 
 _Strikethrough will be added for completed projects_
 
-~~Expanding Cards~~
+~~Expanding Cards~~ (12/2)
 
-~~Progress Steps~~
+~~Progress Steps~~ (12/3)
 
-~~Rotating Navigation Animation~~
+~~Rotating Navigation Animation~~ (12/4)
 
 Hidden Search Widget
 
