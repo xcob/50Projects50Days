@@ -14,7 +14,7 @@ _Strikethrough will be added for completed projects_
 
 ~~Rotating Navigation Animation~~ (12/4)
 
-Hidden Search Widget
+~~Hidden Search Widget~~ (12/7)
 
 Blurry Loading
 
