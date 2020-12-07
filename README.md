@@ -18,6 +18,8 @@ _Strikethrough will be added for completed projects_
 
 ~~Blurry Loading~~ (12/7)
 
+####busy weekend
+
 Scroll Animation
 
 Split Landing Page
