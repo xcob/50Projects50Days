@@ -16,7 +16,7 @@ _Strikethrough will be added for completed projects_
 
 ~~Hidden Search Widget~~ (12/7)
 
-Blurry Loading
+~~Blurry Loading~~ (12/7)
 
 Scroll Animation
 
