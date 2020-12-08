@@ -14,11 +14,11 @@ _Strikethrough will be added for completed projects_
 
 ~~Rotating Navigation Animation~~ (12/4)
 
+#### busy weekend
+
 ~~Hidden Search Widget~~ (12/7)
 
 ~~Blurry Loading~~ (12/7)
-
-#### busy weekend
 
 Scroll Animation
 
