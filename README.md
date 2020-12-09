@@ -24,7 +24,7 @@ _Strikethrough will be added for completed projects_
 
 ~~Scroll Animation~~ (12/8)
 
-Split Landing Page
+~~Split Landing Page~~ (12/9)
 
 Form Wave
 
