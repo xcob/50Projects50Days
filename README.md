@@ -2,6 +2,8 @@
 
 ### Brad Traversy & Florin Pop's HTML, CSS, & Javascript Udemy Course
 
+---
+
 I am challenging myself to complete these 50 projects over the next 50 days AND upload them to a github repo.
 
 ###### Projects Below
@@ -14,13 +16,13 @@ _Strikethrough will be added for completed projects_
 
 ~~Rotating Navigation Animation~~ (12/4)
 
-#### busy weekend
+**busy weekend**
 
 ~~Hidden Search Widget~~ (12/7)
 
 ~~Blurry Loading~~ (12/7)
 
-Scroll Animation
+~~Scroll Animation~~ (12/8)
 
 Split Landing Page
 
