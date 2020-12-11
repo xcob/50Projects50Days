@@ -26,7 +26,11 @@ _Strikethrough will be added for completed projects_
 
 ~~Split Landing Page~~ (12/9)
 
-Form Wave
+```
+lazy
+```
+
+~~Form Wave~~ (12/11)
 
 Sound Board
 
